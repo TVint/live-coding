@@ -7,4 +7,4 @@ const js = document.createElement('script');
 js.src = 'https://raw.githack.com/TVint/live-coding/main/tv_int.js';
 document.head.appendChild(js);
 
-console.log("🚀 Loader eseguito con Githack: librerie in fase di aggancio...");
+console.log("🚀 Loader eseguito!");
